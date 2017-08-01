@@ -1,0 +1,25 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.center {
+  text-align: center;
+  color: white;
+}
+.Background{
+  background-color: rgb(128, 0, 0)
+}
+.Sub {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+.image {
+  display: block;
+  margin: auto;
+}
+.home_image{
+  display: block;
+  margin: auto;
+  Width: 25%;
+  Height: 25%;
+}
